@@ -1,7 +1,7 @@
 /**
  * Created by jeffjorgensen on 15/02/2016.
  */
-public class SimpleObservable {
+public interface SimpleObservable {
 
     //methods to register and unregister observers
     public void registerObserver(SimpleObserver obj);
