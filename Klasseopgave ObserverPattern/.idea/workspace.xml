@@ -33,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElectronicDevice.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ElectronicDevice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ElectronicDevice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4921875">
+            <state vertical-scroll-proportion="0.0">
               <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="e#185#201#0" expanded="true" />
@@ -47,6 +47,29 @@
                 <element signature="e#478#479#0" expanded="true" />
                 <element signature="e#515#516#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerUsage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PowerUsage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5390625">
+              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiodeLight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DiodeLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/SimpleObservable.java" />
         <option value="$PROJECT_DIR$/src/SimpleObserver.java" />
         <option value="$PROJECT_DIR$/src/ElectronicDevice.java" />
+        <option value="$PROJECT_DIR$/src/PowerUsage.java" />
       </list>
     </option>
   </component>
@@ -494,7 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ElectronicDevice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4921875">
+        <state vertical-scroll-proportion="0.0">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="e#185#201#0" expanded="true" />
@@ -504,6 +528,25 @@
             <element signature="e#406#407#0" expanded="true" />
             <element signature="e#478#479#0" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiodeLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5390625">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
