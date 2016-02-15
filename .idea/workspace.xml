@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afdfbaff-cc82-4a49-b004-00ba46fdf0b8" name="Default" comment="" />
+    <list default="true" id="afdfbaff-cc82-4a49-b004-00ba46fdf0b8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Klasseopgave ObserverPattern/src/ElectronicDevice.java" afterPath="$PROJECT_DIR$/Klasseopgave ObserverPattern/src/ElectronicDevice.java" />
+    </list>
     <ignored path="Observer-Pattern-Implementation.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -42,21 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiodeLight.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiodeLight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Klasseopgave ObserverPattern/src/DiodeLight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38659793">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElectronicDevice.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ElectronicDevice.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Klasseopgave ObserverPattern/src/ElectronicDevice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.75386596">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding>
                 <element signature="e#185#201#0" expanded="true" />
                 <element signature="e#270#271#0" expanded="true" />
@@ -91,8 +93,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Klasseopgave ObserverPattern/src/SimpleObserver.java" />
-        <option value="$PROJECT_DIR$/Klasseopgave ObserverPattern/src/ElectronicDevice.java" />
         <option value="$PROJECT_DIR$/Klasseopgave ObserverPattern/src/DiodeLight.java" />
+        <option value="$PROJECT_DIR$/Klasseopgave ObserverPattern/src/ElectronicDevice.java" />
       </list>
     </option>
   </component>
@@ -631,12 +633,12 @@
       <updated>1455534544745</updated>
       <workItem from="1455534545947" duration="462000" />
       <workItem from="1455535204046" duration="325000" />
-      <workItem from="1455535549561" duration="1171000" />
+      <workItem from="1455535549561" duration="1417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1958000" />
+    <option name="totallyTimeSpent" value="2204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -742,10 +744,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Klasseopgave ObserverPattern/src/ElectronicDevice.java">
+    <entry file="file://$PROJECT_DIR$/Klasseopgave ObserverPattern/src/DiodeLight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Klasseopgave ObserverPattern/src/ElectronicDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75386596">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
           <folding>
             <element signature="e#185#201#0" expanded="true" />
             <element signature="e#270#271#0" expanded="true" />
@@ -755,14 +765,6 @@
             <element signature="e#478#479#0" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Klasseopgave ObserverPattern/src/DiodeLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38659793">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>

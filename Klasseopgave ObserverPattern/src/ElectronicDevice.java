@@ -33,4 +33,10 @@ public class ElectronicDevice implements SimpleObservable
             observers.get(i).update(this);
         }
     }
+
+    public void setState(String state){
+        this.state = state;
+
+        notifyObservers();
+    }
 }
