@@ -36,7 +36,6 @@ public class ElectronicDevice implements SimpleObservable
 
     public void setState(String state){
         this.state = state;
-
         notifyObservers();
     }
 }

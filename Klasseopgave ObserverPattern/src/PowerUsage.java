@@ -15,13 +15,17 @@ public class PowerUsage implements SimpleObserver
         {
             System.out.println("The power usage is normal");
         }
-        if(((ElectronicDevice)obj).getState().equals("hibernate"))
+        else if(((ElectronicDevice)obj).getState().equals("hibernate"))
         {
             System.out.println("Power save mode");
         }
-        if(((ElectronicDevice)obj).getState().equals("off"))
+        else if(((ElectronicDevice)obj).getState().equals("off"))
         {
             System.out.println("No power usage");
+        }
+        else
+        {
+            System.out.println("I dont know what "+((ElectronicDevice)obj).getState()+" means. are you high or something?");
         }
     }
 }
