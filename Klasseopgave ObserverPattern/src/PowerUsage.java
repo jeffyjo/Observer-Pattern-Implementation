@@ -3,9 +3,9 @@
  */
 public class PowerUsage implements SimpleObserver
 {
-    public PowerUsage(SimpleObserver obj)
+    public PowerUsage(SimpleObservable obj)
     {
-        ((SimpleObservable) obj).registerObserver(this);
+        (obj).registerObserver(this);
     }
 
     @Override

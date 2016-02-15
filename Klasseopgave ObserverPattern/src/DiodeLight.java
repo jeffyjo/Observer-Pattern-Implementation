@@ -3,8 +3,8 @@
  */
 public class DiodeLight implements SimpleObserver{
 
-    public DiodeLight(SimpleObserver sob) {
-        ((SimpleObservable) sob).registerObserver(this);
+    public DiodeLight(SimpleObservable sob) {
+        (sob).registerObserver(this);
 
     }
 
